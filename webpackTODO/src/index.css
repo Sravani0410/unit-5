@@ -1,5 +1,28 @@
+
 div#Navbar {
     background-color: black;
+    height:50px;
+    
     display: flex;
     justify-content: space-around;
+}
+.images{
+    width:100px;
+    height:50px;
+}
+.heading{
+    color:red;
+}
+#display{
+    text-align: center;
+    color: blueviolet;
+    font-size: 20px;
+}
+.input{
+    margin-top:10px;
+    width:200px;
+    height:20px;
+}
+.heading{
+    margin-top:10px;
 }
